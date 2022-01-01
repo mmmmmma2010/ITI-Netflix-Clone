@@ -36,34 +36,40 @@ https://www.youtube.com/watch?v=7Y41-SkriLQ
 ## Photos of site: 
 
 ### 1. Landing Page
-![Home page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/s5%20homeout.jpg)
+![Home page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/landing.jpg)
 
 ### 2. SignUp
-![SignUp page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/signup.jpeg)
+![SignUp page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/signup.jpg)
 
-### 3. SignIn
-![Loging page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/login2.jpg)
+### 3. Emial Verification
+![SignUp page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/email.jpg)
 
-### 4. Home Page
-![Home page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/s1.jpg)
 
-### 5. Tv Shows 
-![Watching serieses page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/s2%20tvshows.jpg)
+### 4. SignIn
+![Loging page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/signin.jpg)
 
-### 6. Movies
-![Watching move page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/s3%20movies.jpg)
+### 5. Home Page
+![Home page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/home.jpg)
 
-### 7. My List
+### 6. Tv Shows 
+![Watching serieses page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/tvshows.jpg)
+
+### 7. Movies
+![Watching move page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/movies.jpg)
+
+### 8. My List
 ![Watching move page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/mylist.jpg)
 
-### 8. Preview 
-![Watching serieses page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/s4%20show.jpg)
+### 9. Detaials 
+![Watching Detaials for Movie page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/detailsmovie.jpg)
 
-### 9. On Hover 
-![Watching serieses page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/s%20hover.jpg)
+![Watching Detaials for Seriese Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/detailstvshow.jpg)
 
-### 10. Terms of Use
-![Watching serieses page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/s3%20terms.jpg)
+### 10. On Hover 
+![Watching serieses page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/hover.jpg)
 
-### 11. About Us
-![Watching serieses page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/sss.jpg)
+### 11. Terms of Use
+![Watching serieses page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/terms.jpg)
+
+### 12. About Us
+![Watching serieses page Image](https://github.com/hanimohsen31/Netflix-V.4-AIO/blob/main/IMGS/about.jpg)
